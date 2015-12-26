@@ -13,4 +13,4 @@ python decrypt.py
 
 ## Info:
 ###### Uses key.txt as a [one-time-pad](https://en.wikipedia.org/wiki/One-time_pad).
-###### Written 2013.
+###### Written in 2013.
